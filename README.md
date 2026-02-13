@@ -10,9 +10,9 @@ I enjoy turning data into insights and building scalable systems that solve real
 - **Tools & Platforms:** Git, Docker, AWS, Linux
 
 ### 🔭 Projects & Research
-- [[Project/Repo1](https://github.com/Eselase-Noble/nearfix)]) – Find the nearest artisans around you
-- [[Project/Repo2](https://github.com/Eselase-Noble/audio-transcription-frontend.git)] – Convert Audio in to business document
-- [[Project/Repo3](https://github.com/Eselase-Noble/postmaster-backend.git)] – Manage and track logistic goods
+- NearFix: [[NearFix](https://github.com/Eselase-Noble/nearfix)]) – Find the nearest artisans around you
+- Transcrify: [[Transcrify](https://github.com/Eselase-Noble/audio-transcription-frontend.git)] – Convert Audio in to business document
+- Postmaster: [[Postmaster](https://github.com/Eselase-Noble/postmaster-backend.git)] – Manage and track logistic goods
 
 ### 📫 Contact Me
 - LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/noble-eselase-vulley-ba1769281/)](link)
