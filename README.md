@@ -1,3 +1,24 @@
+# Hi there 👋, I'm [Noble Eselase Vulley]
+
+I'm a **Machine Learning Engineer** and **Backend Developer** with a strong background in **Java, C#, PHP, TypeScript, VB.NET**, and **database management (PL/SQL, DBA)**.  
+I enjoy turning data into insights and building scalable systems that solve real-world problems.
+
+### 🛠️ Tech Stack
+- **Backend & Programming:** Java, C#, PHP, TypeScript, VB.NET
+- **Databases:** PL/SQL, MySQL, PostgreSQL, Oracle
+- **Data & ML:** Python, Pandas, NumPy, scikit-learn, TensorFlow
+- **Tools & Platforms:** Git, Docker, AWS, Linux
+
+### 🔭 Projects & Research
+- [[Project/Repo1](https://github.com/Eselase-Noble/nearfix)]([link]) – Short description of your project
+- [[Project/Repo2](https://github.com/Eselase-Noble/audio-transcription-frontend.git)](link) – Short description of your project
+- [[Project/Repo3](https://github.com/Eselase-Noble/postmaster-backend.git)](link) – Brief overview of your research work
+
+### 📫 Contact Me
+- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/noble-eselase-vulley-ba1769281/)](link)
+- Email: [eselasenoble@gmail.com](mailto:eselasenobleson@gmail.com)
+
+⚡ Fun fact: I love exploring new machine learning techniques and optimizing backend systems for performance and reliability.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_nobleson_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/noble-vulley-ba1769281/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@brandedhustler) 
