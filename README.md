@@ -15,7 +15,7 @@ I enjoy turning data into insights and building scalable systems that solve real
 - Postmaster: [[Postmaster](https://github.com/Eselase-Noble/postmaster-backend.git)] – Manage and track logistic goods
 
 ### 📫 Contact Me
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/noble-eselase-vulley-ba1769281/)](link)
+- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/noble-eselase-vulley-ba1769281/)](link)
 - Email: [eselasenoble@gmail.com](mailto:eselasenobleson@gmail.com)
 
 ⚡ Fun fact: I love exploring new machine learning techniques and optimizing backend systems for performance and reliability.
