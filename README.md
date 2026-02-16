@@ -1,14 +1,17 @@
 # Hi there 👋, I'm Noble Eselase Vulley
 
-I'm a **Machine Learning Engineer** and **Backend Developer** with a strong background in **Java, C#, PHP, TypeScript, VB.NET**, and **database management (PL/SQL, DBA)**.  
-I enjoy turning data into insights and building scalable systems that solve real-world problems.
+I am a Machine Learning Engineer and Backend Developer with a strong background in Java, C#, PHP, TypeScript, VB.NET, and database management (PL/SQL, DBA). I specialize in designing and deploying AI/ML solutions, including Large Language Models (LLMs), fine-tuning, and Retrieval-Augmented Generation (RAG) systems. With expertise in building scalable microservices architectures, cloud-native applications, and enterprise systems, I transform complex data into actionable insights and develop intelligent solutions that drive business value. I enjoy turning data into insights and building scalable systems that solve real-world problems.
 
 ### 🛠️ Tech Stack
-- **Backend & Programming:** Java, Python, C#, PHP, Go, TypeScript, VB.NET, PL/SQL, C++
-- **Databases:**  MySQL, PostgreSQL, Oracle
-- **Data & ML:** Python, Pandas, NumPy, scikit-learn, TensorFlow
-- **Frameworks:** Spring, Spring boot, .NET, ASP.NET, Laravel, FAST API, Flask, ReactJS, NextJS, VueJS, GIN, 
-- **Tools & Platforms:** Git, Docker, AWS, Linux, Windows, MacOs, Prometheus, Grafana, Jenkins, Digital Ocean, 
+Backend & Programming: Java, Python, C#, PHP, Go, TypeScript, VB.NET, PL/SQL, C++
+Databases: MySQL, PostgreSQL, Oracle
+Data & ML: Python, Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Keras, Hugging Face, LangChain, LlamaIndex, Ollama
+AI/ML Specialization: Large Language Models (LLMs), Fine-tuning, RAG (Retrieval-Augmented Generation), Vector Databases (FAISS, Pinecone, Weaviate), Model Deployment, Inference Optimization
+ML Tools & Libraries: XGBoost, LightGBM, CatBoost, SHAP, Optuna, MLflow, Weights & Biases, OpenAI API, Anthropic API, Hugging Face Transformers
+Data Processing & Analytics: Apache Spark, Dask, SQL, Exploratory Data Analysis (EDA), Feature Engineering, Data Visualization (Matplotlib, Seaborn, Plotly)
+Computer Vision & NLP: OpenCV, YOLO, Transformers, spaCy, NLTK, Gensim, BERT, GPT models
+Frameworks: Spring, Spring Boot, .NET, ASP.NET, Laravel, FastAPI, Flask, ReactJS, NextJS, VueJS, GIN, Django
+Tools & Platforms: Git, Docker, Kubernetes, AWS, Linux, Windows, macOS, Prometheus, Grafana, Jenkins, Digital Ocean, WSO2, Glowroot, Jupyter Notebook, Google Colab, Anaconda 
 
 ### 🔭 Projects & Research
 - NearFix: [[NearFix](https://github.com/Eselase-Noble/nearfix)]) – Find the nearest artisans around you
