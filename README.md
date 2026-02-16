@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Noble Eselase Vulley]
+# Hi there 👋, I'm Noble Eselase Vulley
 
 I'm a **Machine Learning Engineer** and **Backend Developer** with a strong background in **Java, C#, PHP, TypeScript, VB.NET**, and **database management (PL/SQL, DBA)**.  
 I enjoy turning data into insights and building scalable systems that solve real-world problems.
