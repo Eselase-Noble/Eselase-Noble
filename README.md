@@ -8,7 +8,7 @@ I enjoy turning data into insights and building scalable systems that solve real
 - **Databases:**  MySQL, PostgreSQL, Oracle
 - **Data & ML:** Python, Pandas, NumPy, scikit-learn, TensorFlow
 - **Frameworks:** Spring, Spring boot, .NET, ASP.NET, Laravel, FAST API, Flask, ReactJS, NextJS, VueJS, GIN, 
-- **Tools & Platforms:** Git, Docker, AWS, Linux, Windows, MacOs, Prometheus, Grafana, Jetkins, Digital Ocean, 
+- **Tools & Platforms:** Git, Docker, AWS, Linux, Windows, MacOs, Prometheus, Grafana, Jenkins, Digital Ocean, 
 
 ### 🔭 Projects & Research
 - NearFix: [[NearFix](https://github.com/Eselase-Noble/nearfix)]) – Find the nearest artisans around you
