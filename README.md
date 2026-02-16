@@ -7,7 +7,7 @@ I enjoy turning data into insights and building scalable systems that solve real
 - **Backend & Programming:** Java, Python, C#, PHP, Go, TypeScript, VB.NET, PL/SQL, C++
 - **Databases:**  MySQL, PostgreSQL, Oracle
 - **Data & ML:** Python, Pandas, NumPy, scikit-learn, TensorFlow
-- - **Frameworks:** Spring, Spring boot, .NET, ASP.NET, Laravel, FAST API, Flask, ReactJS, NextJS, VueJS, GIN, 
+- **Frameworks:** Spring, Spring boot, .NET, ASP.NET, Laravel, FAST API, Flask, ReactJS, NextJS, VueJS, GIN, 
 - **Tools & Platforms:** Git, Docker, AWS, Linux, Windows, MacOs, Prometheus, Grafana, Jetkins, Digital Ocean, 
 
 ### 🔭 Projects & Research
