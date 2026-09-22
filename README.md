@@ -70,10 +70,14 @@ histopathology whole-slide images, benchmarked against 2023–2025 state-of-the-
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eselase-Noble&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eselase-Noble&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eselase-Noble&theme=github_dark" alt="Profile summary">
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Eselase-Noble&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eselase-Noble&theme=github_dark" alt="GitHub stats">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eselase-Noble&theme=github_dark" alt="Most-used languages">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Eselase-Noble&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
 </p>
