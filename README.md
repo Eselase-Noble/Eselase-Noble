@@ -53,9 +53,8 @@ complex data into reliable, production-grade systems that solve real-world probl
 | --- | --- | --- |
 | **[Ɔbɔfo](https://github.com/Eselase-Noble/Obofo)** | Multi-tenant WhatsApp alerting — email/SMS notifications when key contacts message or call, without opening WhatsApp. | TypeScript, PostgreSQL |
 | **[Kekeli](https://github.com/Eselase-Noble/kekeli)** | Power-outage & prepaid-meter monitor for Ghana's ECG grid; a lightweight heartbeat device reports whether the light is on at home from anywhere. | TypeScript |
-| **[IntelliFraud Copilot](https://github.com/Eselase-Noble/multi-agent-fraud-detector)** | Production-grade multi-agent / agentic RAG system for financial fraud investigation (planner, policy-RAG, fraud-reasoning, and explanation agents). | Python, FAISS |
-| **[SMT — Server Monitoring Tool](https://github.com/Eselase-Noble/smt-backend)** | Real-time server monitoring platform with a Go backend and TypeScript frontend. | Go, TypeScript |
-| **[Robust Dashboard](https://github.com/Eselase-Noble/Robust-Dashboard)** | Dynamic dashboard with role-based access control and portal/menu management. | Vue |
+| **[IntelliFraud Copilot](https://github.com/Eselase-Noble/fraud_detector)** | Production-grade multi-agent / agentic RAG system for financial fraud investigation (planner, policy-RAG, fraud-reasoning, and explanation agents). | Python, Qdrant |
+| **[Cipherjet](https://github.com/Eselase-Noble/securedrv)** | Cross-platform C++17 printer driver that encrypts every print job end-to-end with libsodium — plaintext documents never touch disk, and any tampering is detected. | C++ |
 
 ---
 
