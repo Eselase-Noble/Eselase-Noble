@@ -55,6 +55,8 @@ complex data into reliable, production-grade systems that solve real-world probl
 | **[Kekeli](https://github.com/Eselase-Noble/kekeli)** | Power-outage & prepaid-meter monitor for Ghana's ECG grid; a lightweight heartbeat device reports whether the light is on at home from anywhere. | TypeScript |
 | **[IntelliFraud Copilot](https://github.com/Eselase-Noble/fraud_detector)** | Production-grade multi-agent / agentic RAG system for financial fraud investigation (planner, policy-RAG, fraud-reasoning, and explanation agents). | Python, Qdrant |
 | **[Cipherjet](https://github.com/Eselase-Noble/securedrv)** | Cross-platform C++17 printer driver that encrypts every print job end-to-end with libsodium — plaintext documents never touch disk, and any tampering is detected. | C++ |
+| **[banbo](https://github.com/Eselase-Noble/banbo)** | Security scanner that probes live systems and reviews source code, mapping findings to Bank of Ghana and Data Protection Act (Act 843) requirements with AI-explained fixes. Ships as a single self-contained binary. | Go |
+| **[Nkabom](https://github.com/Eselase-Noble/nkabom)** | Trust & safety network for Ghana — paste a suspicious SMS/WhatsApp message or look up a Mobile Money number to get a scam verdict, explained in six local languages, with an online-learning RAG loop. | TypeScript |
 
 ---
 
