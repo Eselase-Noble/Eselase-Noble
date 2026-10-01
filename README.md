@@ -20,13 +20,13 @@ I am a Software Engineer, AI/ML Engineer, and Database Administrator with experi
 delivery lifecycle — from designing scalable backend microservices and cloud-native systems to
 building and deploying applied machine-learning solutions. My work centers on **agentic AI systems,
 Large Language Models (LLMs), fine-tuning, and Retrieval-Augmented Generation (RAG)**, complemented by
-research in graph-attention deep learning for medical imaging.
+research across healthcare, system improvement, and fraud detection.
 
 I hold a strong foundation in database engineering and administration (PL/SQL, DBA) and enjoy turning
 complex data into reliable, production-grade systems that solve real-world problems.
 
 - **Focus areas:** Agentic RAG, LLM applications, backend & distributed systems, database administration
-- **Research interest:** Hybrid graph-attention architectures for histopathology image analysis
+- **Research interests:** Healthcare, system improvement, and fraud detection
 - **Based in:** Ghana 🇬🇭
 
 ---
